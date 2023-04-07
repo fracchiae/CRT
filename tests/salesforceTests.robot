@@ -1,3 +1,4 @@
+# test note
 *** Settings ***
 Resource               ../resources/common.robot
 Suite Setup            Setup Browser
